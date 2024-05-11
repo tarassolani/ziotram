@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "627375738812",
+    "project_id": "studio-medico-zio-tram",
+    "storage_bucket": "studio-medico-zio-tram.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:627375738812:android:d4a4c8891e44a9ffaea5b9",
+        "android_client_info": {
+          "package_name": "com.example.lostudiomedicodiziotram"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPGeYkd5YR4eQQE1-dXL4P7jh45ugkOOo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:627375738812:android:dc939bd78bda3955aea5b9",
+        "android_client_info": {
+          "package_name": "com.example.studio_medico_zio_tram"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPGeYkd5YR4eQQE1-dXL4P7jh45ugkOOo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

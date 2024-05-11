@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">lostudiomedicodiziotram</string>
+    <string name="login">fai il login da dr. zio tram</string>
+    <string name="email">email</string>
+    <string name="password">password</string>
+    <string name="registrazione">registrati nello studio di dr. zio tram</string>
+    <string name="click_to_login">premi per fare l\'accesso</string>
+    <string name="click_to_register">premi per registrarti</string>
+    <string name="logout">esci</string>
+    <string name="descrizione_dr">dr. zio tram</string>
+    <string name="tua_mail">questa è la tua mail...</string>
+    <string name="la_mail">scendi dal mio treno</string>
+</resources>
